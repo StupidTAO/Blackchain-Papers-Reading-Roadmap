@@ -2,9 +2,9 @@
 
 > Recording the papers, hoping to provide some help for some newcomer who want to join the blockchain.
 
-I will continue to update the article to this repository.
 
-*****
+
+I will continue to update the article to this repository.
 
 ## History and Basics
 

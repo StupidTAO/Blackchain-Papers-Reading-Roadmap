@@ -1,6 +1,6 @@
 # Blockchain Papers Reading Roadmap
 
-> I am a blockchain learner, recording the papers I have read and contacted here, hoping to provide some help for some newer who want to join the blockchain.
+> Recording the papers, hoping to provide some help for some newcomer who want to join the blockchain.
 
 I will continue to update the article to this repository.
 

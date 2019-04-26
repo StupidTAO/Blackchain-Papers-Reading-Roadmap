@@ -28,9 +28,9 @@ I will continue to update the article to this repository.
 
 ## Ecosystem
 
-**[1]** Z. Tang, "**Yellow Paper: Nebulas Rank**," (2018)[[pdf]](https://nebulas.io/docs/NebulasYellowpaper.pdf) **(an effective value measurement for blockchain) **⭐️⭐️⭐️⭐️
+**[1]** Z. Tang, "**Yellow Paper: Nebulas Rank**," (2018)[[pdf]](https://nebulas.io/docs/NebulasYellowpaper.pdf) **(an effective value measurement for blockchain)** ⭐️⭐️⭐️⭐️
 
-**[2]** Y. Zeng, "**Mauve Paper: Developer Incentive Protocol**," (2018)[[pdf]](<https://nebulas.io/docs/NebulasMauvepaper.pdf>) **(reward or incentive each DApp developer by quantifying each DApp’s contributiond) **⭐️⭐️⭐️⭐️
+**[2]** Y. Zeng, "**Mauve Paper: Developer Incentive Protocol**," (2018)[[pdf]](<https://nebulas.io/docs/NebulasMauvepaper.pdf>) **(reward or incentive each DApp developer by quantifying each DApp’s contributiond)** ⭐️⭐️⭐️⭐️
 
 ## Economic Model
 

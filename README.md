@@ -4,7 +4,7 @@
 
 
 
-I will continue to update the article to this repository.
+We will continue to update the article to this repository.
 
 ## History and Basics
 
@@ -16,9 +16,11 @@ I will continue to update the article to this repository.
 
 ## Consensus Algorithm
 
-**[1]** E. Buchman, "**Tendermint: Byzantine Fault Tolerance in the Age of Blockchains**," arXiv preprint arXiv:1807.04938(2016)[[pdf]](<https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf>) **(A new termination mechanism)** ⭐️⭐️⭐️⭐️
+**[1]** E. Buchman, "**Tendermint: Byzantine Fault Tolerance in the Age of Blockchains**," arXiv preprint arXiv:1807.04938 (2016)[[pdf]](<https://allquantor.at/blockchainbib/pdf/buchman2016tendermint.pdf>) **(A new termination mechanism)** ⭐️⭐️⭐️⭐️
 
 **[2]** H. Howard, "**Distributed consensus revised**," 2019. [[pdf]](<https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-935.pdf>) **(Questioning the Paxos consensus algorithm)** ⭐️⭐️⭐️⭐️
+
+**[3]** H. Howard, D. Malkhi and A. Spiegelman,  "**Flexible Paxos: Quorum intersection revisited**," arXiv preprint arXiv:1608.06696 (2016). [[pdf]](<https://arxiv.org/pdf/1608.06696.pdf>) **(Reaching agreement without majorities)** ⭐️⭐️⭐️
 
 ## Distributed Storage
 

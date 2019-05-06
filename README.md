@@ -22,6 +22,10 @@ We will continue to update the article to this repository.
 
 **[3]** H. Howard, D. Malkhi and A. Spiegelman,  "**Flexible Paxos: Quorum intersection revisited**," arXiv preprint arXiv:1608.06696 (2016). [[pdf]](<https://arxiv.org/pdf/1608.06696.pdf>) **(Reaching agreement without majorities)** ⭐️⭐️⭐️
 
+**[4]** C. Li, P. Li, D. Zhou, W. Xu, F. Long, and Andrew Chi-Chih Yao,  "**Scaling Nakamoto Consensus to Thousands of Transactions per Second**," arXiv preprint arXiv:1805.03870 (2018). [[pdf]](<https://arxiv.org/pdf/1805.03870.pdf>) **(Enhance TPS based on Bitcoin UTXO model)** ⭐️⭐️⭐️⭐️
+
+
+
 ## Distributed Storage
 
 ## P2P Network

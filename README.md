@@ -4,7 +4,6 @@
 
 
 
-We will continue to update the article to this repository.
 
 ## History and Basics
 

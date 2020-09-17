@@ -30,6 +30,7 @@
 ## P2P Network
 
 ## Smart Contract
+**[1]**  Xuepeng Fan, Peng Li, Yulong Zeng, Xiaoping Zhou "**Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-tally Voting System**"(2020)[[pdf]](https://nebulas.io/docs/NebulasYellowpaper.pdf) **(Smart contracts to achieve fluid democracy)** ⭐️⭐️⭐️⭐️
 
 ## Formal Verification
 
